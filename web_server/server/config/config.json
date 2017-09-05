@@ -1,0 +1,4 @@
+{
+    "mongoDbUri":"mongodb://admin:admin@ds031895.mlab.com:31895/bittiger-tap-news",
+    "jwtSecret": "ramdom string!"
+}

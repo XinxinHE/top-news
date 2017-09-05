@@ -1,0 +1,11 @@
+newspaper
+numpy
+python-dateutil
+pika
+python-jsonrpc
+pymongo
+redis
+requests
+scipy
+sklearn
+watchdog
