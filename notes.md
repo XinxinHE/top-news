@@ -56,3 +56,7 @@ if necessary, install pip again $ wget https://bootstrap.pypa.io/get-pip.py; $ s
 install setuptools via pip $ sudo -H pip install -U pip setuptools
 
 still failed repeat from start again
+
+
+
+npm install -g react-scripts
