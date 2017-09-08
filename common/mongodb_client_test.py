@@ -9,8 +9,8 @@ def test_basic():
     assert database.testCollection.count() == 0
     database.testCollection.insert({'test': 1, 'hello': 'world'})
     assert database.testCollection.count() == 1
-    database.testCollection.drop()
-    assert database.testCollection.count() == 0
+    # database.testCollection.drop()
+    # assert database.testCollection.count() == 0
     print 'test_basic passed.'
 
 if __name__ == "__main__":

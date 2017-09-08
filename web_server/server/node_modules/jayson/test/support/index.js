@@ -1,8 +1,8 @@
 var should = require('should');
-var jayson = require(__dirname + '/../../');
+var jayson = require('./../../');
 var fs = require('fs');
 
-exports.Counter = require(__dirname + '/counter');
+exports.Counter = require('./counter');
 
 exports.server = {};
 

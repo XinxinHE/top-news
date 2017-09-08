@@ -34,7 +34,7 @@ class LoginPage extends React.Component {
 
         // post login data
 
-        fetch('http://localhost:3000/auth/login', {
+        fetch('/auth/login', {
             method: 'POST',
             cache: false,
             headers: {
